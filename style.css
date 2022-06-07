@@ -1,9 +1,21 @@
 .jumbotron {
     padding-top: 4rem ;
-    background-color: #f5fa9b;
+    background-color: #8a300c;
 
 }
 #card {
     
-    background-color: #f5fa9b;
+    background-color: #8a300c;
 }
+
+.bg-red {
+ background-color: #69260b !important;
+}
+
+.btn-warning {
+    background-color: #69260b !important; 
+    color: white !important;
+    border-color: #69260b !important;
+    width: 150px;
+}
+
